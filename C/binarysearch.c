@@ -1,3 +1,9 @@
+/*Program to implement binary search operation on an Array
+ *
+ * 
+ */
+ 
+ 
 #include <stdio.h>
 
 void display(int a[], int n)            // Display function
