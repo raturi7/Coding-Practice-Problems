@@ -1,7 +1,6 @@
 /*Program to implement binary search operation on an Array
  *
  * 
- * 
  */
  
  
